@@ -11,4 +11,4 @@
 - 개인적인 감상
 - 다음에 읽어 볼 논문
 
-[과거 레포](https://github.com/noowad/paper-summaries): 대학원 시절 정리했던 논문 모음입니다.
+[2018 - 2019 Repo](https://github.com/noowad/paper-summaries)
