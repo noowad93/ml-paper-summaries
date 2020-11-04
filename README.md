@@ -11,4 +11,3 @@
 - 개인적인 감상
 - 다음에 읽어 볼 논문
 
-[2018 - 2019 Repo](https://github.com/noowad/paper-summaries)
